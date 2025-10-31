@@ -1,0 +1,1 @@
+This dataset is the one we used to validate the effectiveness of the method, containing 500 images and annotation files, and is intended for experimental reproduction.
